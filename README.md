@@ -10,3 +10,5 @@ imagens, separar por fotógrafo sem demandar muito tempo.
 
 (provavelmente algum outro software deve fazer isso, mas queria mexer
 com código, então foi útil pois é uma alternativa simples e leve)
+
+Em breve quero fazer uma interface gráfica.
